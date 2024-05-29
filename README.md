@@ -1,2 +1,2 @@
 # MLOps-Learnings
-This is an example
+This is an exampl
